@@ -1,91 +1,97 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: 张纪晖's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# 张纪晖
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
++61 0413 622 027|
+jihui.zhang@uqconnect.edu.au
 
 
-## Currently
+## 教育背景
 
-Standing on the shoulders of giants
+`2019年2月 - 至今`
+__昆士兰大学__
 
-### Specialized in
+- 数据科学 硕士
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`2017年7月 - 2019年2月`
+__昆士兰大学__
 
+- 交换学生
 
-### Research interests
+`2014年8月 - 2018年7月`
+__南方科技大学__
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- 材料科学与工程 学士
+- GPA 3.3/ 4.0
 
 
+## 论文
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+- Luo, J. P., Sun, J. F., Huang, Y. J., __Zhang, J. H.,__ Zhang, Y. D., Zhao, D. P., & Yan, M. (2019). Lowmodulus biomedical Ti–30Nb–5Ta–3Zr additively manufactured by Selective Laser Melting and its biocompatibility. Materials Science and Engineering: C, 97, 275-284. 
 
 
+## 工作和实习经历
 
-## Publications
+`2017年6月 - 2017年7月` 
+__深圳光韵达光电科技股份有限公司__
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+- 助理工程师
+- 操作SLM、SLS、SLA等多种材料3D打印机
+- 协助测试材料性能以及后处理
 
 
-## Occupation
+## 项目经历
 
-`1600`
-__Royal Mint__, London
+`2020年3月 - 至今`
+__布里斯班公交系统客流量预测__
 
-- Warden
-- Minted coins
+- 处理并展示 2018 - 2019 财年布里斯班地区部分公交系统的客流量数据
+- 使用 deep learning 方法预测客流量
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2019年2月 - 2019年7月`
+__设计并实现西甲足球数据库__
 
+- 设计RDBMS
+- 使用python以及MySQL实现数据库的基本功能
+- 使用Django框架实现在网页上操作数据库
+
+`2017 - 2018` 
+__大学生创新创业训练计划项目__
+
+- 项目负责人
+- 通过3D打印技术打印形状记忆合金，并测试其力学及热力学性能
+
+`2016 - 2017`
+__3D打印TNTZ合金__
+
+- 通过选区激光打印技术打印TNTZ合金、设计特殊打印结构、测试力学及生物性能
+- 研究结果于2019年发表在期刊《Material Science and Engineering》
+
+
+## 社团和组织经历
+
+`2014 - 2016`
+__南方科技大学轮滑社__
+
+- 南方科技大学轮滑社创立人及第一任主席
+- 2016年，社团注册人数已经超过100人
+
+
+## 技能、奖学金及其他
+
+__编程语言__: Python、Java、R、...
+
+`2014 - 2018`
+__南方科技大学初创奖学金__
+
+`2014`
+__速度轮滑国家一级运动员__
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Aug 2020 -->
 
 
