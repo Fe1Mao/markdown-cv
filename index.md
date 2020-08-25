@@ -4,8 +4,10 @@ title: 张纪晖's CV
 ---
 # 张纪晖
 
-+61 0413 622 027|
-jihui.zhang@uqconnect.edu.au
+<div id="webaddress">
+<a>+61 0413 622 027</a>
+| <a>jihui.zhang@uqconnect.edu.au</a>
+</div>
 
 
 ## 教育背景
